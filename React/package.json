@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "alertifyjs": "^1.13.1",
+    "bootstrap": "^5.0.2",
+    "react-router-dom": "^5.2.0",
+    "reactstrap": "^8.9.0"
+  }
+}
